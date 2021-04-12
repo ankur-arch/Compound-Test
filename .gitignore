@@ -1,2 +1,5 @@
 dataset/*
 models/*
+pickle*
+sync*
+complete*
